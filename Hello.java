@@ -1,6 +1,6 @@
 class Hello {
     public static void main(String[] args) {  
-        var message = "Hej med dig";
+        var message = "Hello, World!";
         System.out.println(message);
 }
 }
