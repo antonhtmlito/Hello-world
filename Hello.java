@@ -3,6 +3,6 @@ class Hello {
         var message = "Hello, World! gay gay gay";
         System.out.println(message);
 
- "Fejl!"
+ "rettet"
     }
 }
